@@ -34,7 +34,7 @@ The more programming languages you know the higher your salary?¶
 Predicting salary: selected year
 5 - Results
 
-More information: 
+More information on results: https://medium.com/@anateresa.mdneto/what-languages-will-last-forever-7bda61ebe19c 
 
 Licensing, Authors, Acknowledgements
 Credits for the data: Stackoverflow
