@@ -4,7 +4,7 @@ I - Instalation:
 No necessary libraries beyond the Anaconda distribution of Python.
 
 II - Files: 
-1 notebook available; all the files that corresponding to used datasets: https://insights.stackoverflow.com/survey
+1 notebook available; all the files (16) that correspond to used datasets(11): https://insights.stackoverflow.com/survey
 
 III - Motivation: For this first project I was intersted in finding the answer for 3 main questions, 
 looking through the stackoverflow survey results - multiple years (2011 - 2021):
