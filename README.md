@@ -37,5 +37,5 @@ Predicting salary: selected year
 More information on results: https://medium.com/@anateresa.mdneto/what-languages-will-last-forever-7bda61ebe19c 
 
 Licensing, Authors, Acknowledgements
-Credits for the data: Stackoverflow
+Credits for the data: Stackoverflow.
 This project is developed regarding Udacity data science course.   
