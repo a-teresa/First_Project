@@ -9,7 +9,7 @@
 #### - all the files (16) that correspond to 2011 - 2021 datasets(11): [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 
 
-## III - Motivation: For this first project I was intersted in finding the answer for 3 main questions, 
+## III - Motivation: For this first project I was interested in finding the answer for 3 main questions, 
 looking through the stackoverflow survey results - multiple years (2011 - 2021):
 #### 1 - What are the most popular programming languages?
 #### 2 - What are the programming languages that people most want to learn?
